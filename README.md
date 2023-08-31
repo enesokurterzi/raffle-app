@@ -30,12 +30,12 @@ annotationProcessor("androidx.room:room-compiler:$room_version") <p>
 
   - Jsoup <p>
 
-implementation 'org.jsoup:jsoup:1.16.1'
+implementation 'org.jsoup:jsoup:1.16.1'<p>
 
   - Glide <p>
 
-implementation 'com.github.bumptech.glide:glide:4.15.1'
-annotationProcessor 'com.github.bumptech.glide:compiler:4.12.0'
+implementation 'com.github.bumptech.glide:glide:4.15.1'<p>
+annotationProcessor 'com.github.bumptech.glide:compiler:4.12.0'<p>
   
   - ViewBinding <p>
     
